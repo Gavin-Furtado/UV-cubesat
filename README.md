@@ -9,9 +9,9 @@ Repository consists of various jupyter notebooks used for the different calculti
 Jupyter notebook for the sensitivity calculations is in the 'Cubesat Sensitivity.ipynb' file which is built on the open soucre Exposure Time Calculator (ETC) of the CASTOR mission. This code enables to enter customised passband filters, aperture diameter and pixel scale
 
 ## Structure
-1. Telescope sensitivity
-2. Telescope design
-3. Telemetry
+1. [Telescope sensitivity](https://github.com/Gavin-Furtado/UV-cubesat/tree/main/telescope_sensitivity)
+2. [Telescope optics](https://github.com/Gavin-Furtado/UV-cubesat/tree/main/telescope_optics)
+3. [Telemetry](https://github.com/Gavin-Furtado/UV-cubesat/tree/main/telemetry)
 
 ## Timeline
 May 2022 - August 2022
